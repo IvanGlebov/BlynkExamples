@@ -1,5 +1,5 @@
 # BlynkExamples
-Code templates for Blynk projects using deprecated Blynk library version (&lt;1)
+Важное замечание перед прочтением. Данный код подходит для использования с библиотекой Blynk версии < 1 (последний релиз на github - [0.6.1](https://github.com/blynkkk/blynk-library/releases/tag/v0.6.1))
 
 ## Что здесь?
 Это репозиторий с простыми примерами кода и объяснениями как он работает.
